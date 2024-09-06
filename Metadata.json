@@ -1,0 +1,28 @@
+[{
+    "description": "Happy Racoon", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://peach-defensive-aardvark-973.mypinata.cloud/ipfs/QmT4vYXePQerxgtZjxxNRJj9ge6BJKFftuhFVXXkWEqqvc", 
+    "name": "Racoon",
+    "attributes": [ 
+        {
+            "trait_type": "Base", 
+            "value": "Racoon"
+          }, 
+          {
+            "trait_type": "Eyes", 
+            "value": "Blue"
+          }, 
+          {
+            "trait_type": "Mouth", 
+            "value": "Surprised"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Pink"
+          }, 
+          {
+            "trait_type": "Personality", 
+            "value": "Happy"
+          }
+     ]
+  }]
